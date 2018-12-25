@@ -1,5 +1,7 @@
 # Visual Studio のインストール方法
 
+演習の実施には、 Visual Studio が必要です。
+
 ## 1. Visual Studio Installer のダウンロード/実行
 
 * 1-1. [ダウンロードページ](https://visualstudio.microsoft.com/free-developer-offers/)へアクセス
@@ -40,8 +42,8 @@
 
 ![](./imgs/vs_configure2.png)
 
-## Appendix. 別のダウンロード方法 (非推奨)
+## (Appendix. ) Offline Installer の入手方法 (インターネット接続がない場合)
 
-* インターネット接続がない場合など、USB ドライブなどで、[Offline Install 用ファイル](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/v1.0.1/vs_cppdev.exe) を入手。
+* インストールしたい PC にインターネット接続がない場合は、USB ドライブなどを経由して、他の PC などから [Offline Install 用ファイル](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/v1.0.1/vs_cppdev.exe) を入手する。
 * このファイルを実行し解凍。
-* 解凍されたディレクトリ内の `vs_community.exe` を実行する。インストール方法は同じ。
+* 解凍されたディレクトリ内の `vs_community.exe` を実行する。インストール方法は上記と同じ。
