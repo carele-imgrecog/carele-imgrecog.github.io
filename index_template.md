@@ -16,7 +16,7 @@
     * 使用する Visual Studio のバージョン (2010, 2013, 2015, 2017) に応じて、使用するソリューション(.sln)ファイルを変えてください。
         * 例) Visual Studio Community 2017 の場合は、exercise1\_vc2017.sln
         * Visual Studio Community 2017 向けのファイルがない場合は、exercise1\_vc2015.sln を使用してください。
-        * Visual Studio のインストール方法については、演習 1 のスライドの最後を参照してください。
+        * Visual Studio のインストール方法については、<a href="vs_install.html">こちら</a> を参照してください。
 
 ## 演習 2
 
