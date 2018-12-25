@@ -42,6 +42,6 @@
 
 ## Appendix. 別のダウンロード方法 (非推奨)
 
-* インターネット接続がない場合など、USB ドライブなどで、[ファイル]() を入手。
+* インターネット接続がない場合など、USB ドライブなどで、[ファイル](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/v1.0.1/vs_cppdev.exe) を入手。
 * このファイルを実行し解凍。
 * 解凍されたディレクトリ内の `vs_community.exe` を実行する。インストール方法は同じ。
