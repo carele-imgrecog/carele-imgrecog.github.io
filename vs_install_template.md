@@ -1,6 +1,15 @@
 # Visual Studio のインストール方法
 
-演習の実施には、 Visual Studio が必要です。
+演習を実施するために、Visual Studio 2017 Community Edition (C++開発環境) のインストールが必要です。
+
+Visual Studio の 他の Version の C++ 開発環境をインストール済みの場合は、それを使用可能ですので本作業は不要です。
+
+* 例) 古いバージョンでの C++ 開発環境
+    * Visual Studio 2010 以降であれば問題ありません。
+    * (いずれも、Visual Studio の C++ 開発環境を選択してインストールしていること。)
+* 例) 異なるエディションの C++ 開発環境
+    * Express Edition, Professional Edition, Enterprise Edition
+    * (いずれも、Visual Studio の C++ 開発環境を選択してインストールしていること。)
 
 ## 1. Visual Studio Installer のダウンロード/実行
 
