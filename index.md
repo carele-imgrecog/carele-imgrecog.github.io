@@ -2,6 +2,9 @@
 
 本ページは講義および演習の教材を配布するためのページです。
 
+本演習では Visual Studio がインストールされた Windows PC を使います。
+Visual Studio のインストール方法は、<a href="vs_install.html">こちら</a> を参照してください。
+
 ## 講義資料
 
 * 講義および演習 1 、演習 2 のスライド
@@ -17,7 +20,6 @@
         * 古い Visual Studio を使用する場合はバージョンに応じて、使用するソリューションファイル (.sln) を変えてください。
         * 例) Visual Studio Community 2017 の場合は、exercise1\_vc2017.sln
         * 対応するファイルがない場合は、更に古いバージョン向けのソリューションファイルを使用してください。
-        * Visual Studio のインストール方法については、<a href="vs_install.html">こちら</a> を参照してください。
 
 ## 演習 2
 
