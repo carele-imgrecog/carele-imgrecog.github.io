@@ -24,7 +24,7 @@
 * 演習 2 で使用するソフトウェア
     * 自己解凍形式(.exe) [Download exercise2.exe](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/___version___/exercise2.exe)
     * ZIP 形式(.zip) [Download exercise2.zip](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/___version___/exercise2.zip)
-* 演習 2 のレポート
+* 演習 2 のレポート用紙（上記ソフトウェアの中にも含まれています。レポート用紙だけダウンロードしたい人用。）
     * [Download](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/___version___/exercise2_report.doc)
 
 ## 注意点
