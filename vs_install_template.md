@@ -53,6 +53,6 @@ Visual Studio の 他の Version の C++ 開発環境をインストール済み
 
 ## (Appendix. ) Offline Installer の入手方法 (インターネット接続がない場合)
 
-* インストールしたい PC にインターネット接続がない場合は、USB ドライブなどを経由して、他の PC などから [Offline Install 用ファイル](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/___version___/vs_cppdev.exe) を入手する。
+* インストールしたい PC にインターネット接続がない場合は、USB ドライブなどを経由して、他の PC などから [Offline Install 用ファイル](https://github.com/carele-imgrecog/carele-imgrecog.github.io/releases/download/v2.0.0/vs_cppdev.exe) を入手する。
 * このファイルを実行し解凍。
 * 解凍されたディレクトリ内の `vs_community.exe` を実行する。インストール方法は上記と同じ。
