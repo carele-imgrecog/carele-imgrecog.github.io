@@ -17,7 +17,7 @@ Visual Studio の 他の Version の C++ 開発環境をインストール済み
 
 * 1-2. 一番左の “Visual Studio Community” の “Download” をクリックする。
 
-![](./imgs/vs_download_page.png)
+![](./imgs/vs_download_page_2022.png)
 
 * 1-3. ダウンロードしたファイルの実行
     * Edge の場合
@@ -43,7 +43,7 @@ Visual Studio の 他の Version の C++ 開発環境をインストール済み
 
 * 2-3. C++ によるデスクトップ開発 (Desktop development with C++) にチェックを入れて、インストール。
 
-![](./imgs/vs_configure1.png)
+![](./imgs/vs_configure1_2022.png)
 
 * 2-4. インストールにしばらく時間がかかります。(30分程度)
 
